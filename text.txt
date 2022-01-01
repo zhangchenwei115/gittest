@@ -16,9 +16,5 @@
 555
 555
 555
-<<<<<<< HEAD
 555 master test
-=======
 555 hot fix test
->>>>>>> hot-fix
-
